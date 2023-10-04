@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt RPi4B
+name: Build OpenWrt OPI-one
 
 on:
   repository_dispatch:
